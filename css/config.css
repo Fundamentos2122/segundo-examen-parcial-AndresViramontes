@@ -1,0 +1,38 @@
+*{box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+html, body{ margin: 0;}
+
+:root{
+    --color-primary:#0d6efd;
+    --color-secondary:#adb5bd;
+    --color-success:#198754;
+    --color-info:#17a2b8;
+    --color-warning:#ffc107;
+    --color-danger:#dc3545;
+    --color-light:#f8f9fa;
+    --color-dark:#343a40;
+    --boder-color:#dee2e6;
+    --color-primary-darker:#0a55c5;
+    --color-secondary-darker:#899097;
+    --color-success-darker:#0d5232;
+    --color-info-darker:#0f7585;
+    --color-warning-darker:#ce9b04;
+    --color-danger-darker:#9b2530;
+    --color-light-darker:#d6d7d8;
+    --color-dark-darker:#121416;
+    --boder-color-darker:#b3b7bb;
+
+    --color-primary-clear:#4992ff;
+    --color-secondary-clear:#bbbbbb;
+    --color-success-clear:#40976e;
+    --color-info-clear:#3eb0c2;
+    --color-warning-clear:#f8ca3e;
+    --color-danger-clear:#dc3545;
+    --color-light-clear:#ffffff;
+    --color-dark-clear:#404041;
+    --boder-color-clear:#e0e0e0;
+
+    --container-padding: 1em;
+}
